@@ -19,7 +19,7 @@ WhichPainDoYouWant!? in JeanBoulangerie
  - 버터앙팡
 
 - 타르트
- * 
+ * 크림치즈타르트
  *
 
 - 식빵
