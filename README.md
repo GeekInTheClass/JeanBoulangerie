@@ -31,7 +31,6 @@ WhichPainDoYouWant!? in JeanBoulangerie
 
 - 타르트
  - 크림치즈타르트
- - 
 
 - 페이스트리
  - 크로와상
