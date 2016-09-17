@@ -1,13 +1,17 @@
-JeanBoulangerie
-============================================
+#JeanBoulangerie
+
 WhichPainDoYouWant!? in JeanBoulangerie
+
 - 장블랑제리 정보
 - 장블랑제리 메뉴
 - 메뉴에 대한 자세한 설명은 링크문서로~
+
 ![alt tag](http://www.dtrix.co.kr/wp-content/uploads/2016/01/%EC%9F%9D%EB%B8%94%EB%9E%91%EC%A0%9C%EB%A6%AC_1.png)
 
-영업시간: 
-휴무일:
+- 영업시간: 오전 7:00 ~ 오후 10:00
+- 전화번호: 02 - 889 - 5170
+- 휴무일: 일요일, 명절 당일
+- 위치: 서울특별시 관악구 봉천동 1660-7(낙성대역 4번 출구 방향)
 
 빵순이
 ------------------------------
