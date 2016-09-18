@@ -22,16 +22,13 @@ WhichPainDoYouWant!? in JeanBoulangerie
 
 - 간식용빵
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
 앙금빵 | 가격 | 주재료 | 투표
 ------ | ---- | ------ | ----
 단팥빵 | 1,500 | 단팥 | -[x] -[ ] -[ ] -[ ] -[ ] -[ ]
 
 - [ ]
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 - 앙금빵
  - 단팥빵
