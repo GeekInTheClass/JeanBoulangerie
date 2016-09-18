@@ -24,7 +24,7 @@ WhichPainDoYouWant!? in JeanBoulangerie
 
 앙금빵 | 가격 | 주재료 | 투표
 ------ | ---- | ------ | ----
-단팥빵 | 1,500 | 단팥 | -[x]1 -[ ]2 -[ ]3 -[ ]4 -[ ]5 -[ ]6
+단팥빵 | 1,500 | 단팥 | 
 
 - [ ]1번번묹번문제
 - [x] This is a complete item
