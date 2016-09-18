@@ -31,6 +31,8 @@ Content in the first column | Content in the second column
 ------ | ---- | ------ | ----
 단팥빵 | 1,500 | 단팥 | -[x] -[ ] -[ ] -[ ] -[ ] -[ ]
 
+[ ]
+
 - 앙금빵
  - 단팥빵
  - 생크림단팥빵
