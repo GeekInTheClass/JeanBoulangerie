@@ -3,7 +3,7 @@ JeanBoulangerie
 WhichPainDoYouWant!? in JeanBoulangerie
 ## 투표란의 빈 동그라미(○○○○○○)를 요로케(●) 바꿔주세요!
 현재 상위 5순위
-1.생크림단팥빵 2. 3. 4. 5. 
+#1.생크림단팥빵 2. 3. 4. 5. 
 
 - 장블랑제리 정보
 - 장블랑제리 메뉴
